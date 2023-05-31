@@ -1,0 +1,12 @@
+:root {
+  --surface-secondary: #666666;
+  --surface-variant: #e6e6e6;
+  --surface-border: #cccccc;
+  --surface-bg: #f2f2f2;
+  --on-surface: #1a1a1a;
+  --primary: #eb595f;
+  --tertiary-red: #db382a;
+  --secondary: #5e455a;
+  --surface: #ffffff;
+  --hover: 0px 2px 8px rgba(38, 39, 61, 0.16);
+}
